@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Naming cheatsheet
+# Naming cheatsheet DIDJEY
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
