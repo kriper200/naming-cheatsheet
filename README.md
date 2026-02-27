@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Naming cheatsheet DOUBLE
+# Naming cheatsheet DOUBLE PRIG
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
